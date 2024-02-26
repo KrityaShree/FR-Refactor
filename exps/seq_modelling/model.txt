@@ -1,0 +1,5 @@
+The finetuned model for code augmented pretraining goes in this directory, it must be named "d_bert_ca_finetuned.bin"
+
+Fine-tuned model download link: 
+
+https://d-bert-finetuned-model.s3.eu-west-2.amazonaws.com/d_bert_ca_finetuned.bin
